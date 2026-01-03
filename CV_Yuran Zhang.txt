@@ -1,0 +1,68 @@
+Yuran Zhang
+Montreal, QC (Open to relocation) |1-438-778-3320 | yuranzhang6@gmail.com | linkedin.com/in/yuranzhang
+Summary
+BS degree in Computer Science & Statistics from McGill University with hands-on experience in software development, data analysis, and cloud
+infrastructure Proficient in Puthon. lova. C++ and SOl with a sond foundation and areat passion in Machine Leaming & NIP. Knowledacobie in solable
+system design and experienced in developing and deploying Al models using ML frameworks to solve real-world challenges.
+Canadian citizen - TN eligible
+Education
+McGill University B.Sc. in Computer Science / Minor Statistics
+Montreal, QC, Canada
+Sep. 2021 - May 2025
+• Relevant courses: Data Structures & Algorithms, Software Design, Operating Systems, Probability & Statistical Analysis, Applied Regression,
+Machine Learning, NLP, Reinforcement Learning
+• Leadership: Executive of the McGill Competitive Programming Club
+Technical Skills
+Programming Languages: Python, Java, Ct+, R, SQL, Bash, JavaScript, HTML, CSS
+• Frameworks & Technologies: Spring Boot, Microservice, Maven, REST APIs, Flask, Kafka, Redis, MySQL, PostgreSQL, MongoDB;
+AWS, MS Azure, Docker, Jenkins; ML libraries and tools (Numpy, Pandas, PyTorch, TensorFlow, Scikit-Learn)
+• Development Tools/Environment: Git, GitHub, GitHub Actions, GitLab, IntelliJ IDEA, PyCharm, VS Code; Windows, Unix/Linux
+Certifications
+• AWS Certified Cloud Practitioner
+• ICPC Contest Certificate (ranked top 3 teams at McGill, 18th place in ICC Northeast NA Division 2024)
+Work Experience
+McGill University
+Montreal, QC, Canada
+Lab Research Assistant (Volunteer) (Computational Biology & Healthcare / Machine Learning)
+May 2025 - Present
+• Conducted EDA (Exploratory Data Analysis) and visualization on large scale EHR datasets (eICU, MIMIC-III) with Jupyter Notebook, and built
+scalable preprocessing pipeline (Python, Pandas, SQL) to clean, impute and standardize 200K+ patient records.
+• Implemented and optimized federated learning workflows with LSTM/TCN models, reducing communication overhead by 4.5x and improving
+AUPRC by 5% across heterogeneous hospital datasets.
+Eth Tech
+Software Engineer intern
+Newark, CA, USA
+May 2024 - Aug. 2024
+Contributed to the backend system development of an e-commerce platform utilizing microservices architecture with Java based on Spring
+Boot framework.
+Engineered features for enhanced product exploration, selection, and management, utilizing Spring Data to streamline data operations
+across MySQL and MongoDB databases, resulting in a 30% improvement in query performance.
+• Integrated a Kafka system for real-time updates on product availability, order status, and inventory management, supporting over 8,000 real-
+time events per day.
+• Implemented a sophisticated Redis Caching Mechanism to optimize system performance, reducing response time by 60% and ensuring
+scalability to accommodate a 45% increase in peak user load.
+• Developed an intelligent recommender system using a deep learning-based Neural Collaborative Filtering approach (NeuMF model) with
+PyTorch to analyze implicit user feedback and user-item interactions, delivering personalized product rankings and increasing click-through
+rates (CTR) by 25%.
+YiSen Tech
+Dalian, China
+Junior Software Developer Intern
+May 2023 - Aug. 2023
+Contributed to the backend infrastructure for a real-time chat web application using Python with Flask and WebSocket protocols, supporting
+concurrent messaging for 300+ active users with sub-100ms latency.
+• Built a containerized microservice architecture using Docker, implementing separate containers for message handling, user authentication,
+and notification services.
+• Implemented asynchronous message processing with Python's asyncio library and integrated Redis for session management and message
+queuing, enabling real-time message delivery and reducing database load by 30%.
+• Established CI/CD pipeline using GitHub Actions that automated container builds, ran unit tests with Pytest, and deployed containerized
+services to AWS ECS, while setting up CloudWatch monitoring for application performance tracking and error logging.
+Selected Projects
+Project for 2025 Canada HealthSync Innovation Challenge: Al-Driven Healthcare Decision Support System
+Jan. 2025 - Mar. 2025
+Ranked top 5 team among 20+ teams
+• Developed a hybrid ML model with XGBoost + ClinicalBERT to analyze structured lab data and unstructured clinical notes, achieving 85%
+precision in early risk prediction for cardiovascular events.
+• Built a lightweight RAG system on medical guidelines (stored as text chunks in SQLite). Embedded queries with a distilled version of
+ClinicalBERT from HuggingFace, achieving high relevance (80%+) in retrieved documents.
+• Containerized models with Docker and deployed as scalable FastAPl microservices; integrated FHIR-compliant APIs to sync with Supabase
+PostgresQL for real-time data pipelines.
